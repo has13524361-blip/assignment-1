@@ -36,8 +36,8 @@ B8A1/
 
 I also wrote two blog posts about TypeScript concepts:
 
-1. [Type vs Interface](./type-vs-interface.md)
-2. [Generics and Promises](./generics-and-promises.md)
+1. [type-vs-interface](./type-vs-interface.md)
+2. [any-vs-unknown-vs-never](./generics-and-promises.md)
 
 ## What I Learned
 
